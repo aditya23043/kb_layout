@@ -2,6 +2,8 @@ html {
     font-family: "VictorMono NFM";
     font-weight: bold;
     font-size: 2rem;
+    color: #aaa;
+    background-color: #111;
 }
 
 .text_center {
