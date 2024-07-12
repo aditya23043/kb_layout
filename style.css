@@ -1,9 +1,26 @@
 html {
     font-family: "Victor Mono";
     font-weight: 700;
-    font-size: 2rem;
+    font-size: 1.2rem;
     color: #aaa;
-    background-color: #111;
+    background-color: #121212;
+}
+
+input {
+    color: #aaa;
+    background-color: #000;
+    width: 50%;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: "Victor Mono";
+    font-weight: 700;
+    padding: 1rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+    border: 1px solid #aaa;
+    border-radius: 1rem;
 }
 
 .text_center {
@@ -16,18 +33,16 @@ html {
 }
 
 table {
-    border-spacing: 0.5rem;
+    border-spacing: 0.2rem;
 }
 
 td {
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-    border: 4px solid #aaa;
+    font-size: 2rem;
+    padding: 0.8rem;
+    border: 3px solid #aaa;
     border-radius: 1rem;
     text-align: center;
-    width: 70px;
+    width: 100px;
     height: 60px;
 }
 
